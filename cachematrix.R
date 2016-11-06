@@ -1,5 +1,5 @@
 ## Make a pair of functions that
-## catch the inverse of a matrix
+## cache the inverse of a matrix
 
 ## Creates a special matrix that can cache its inverse
 
